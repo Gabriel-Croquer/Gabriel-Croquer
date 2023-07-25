@@ -1,7 +1,8 @@
 - 👋 Oi, meu nome é @Gabriel-Croquer
-- Sou repórter do Portal R7, da Record TV
-- Estou atualmente me especializando no jornalismo de dados, através de pautas sobre política, meio ambiente e cotidiano. 
-Contato: gcroquer@recordtv.com.br 
+- Sou repórter do g1, da TV Globo.
+- Sou repórter especializado em jornalismo de dados. 
+
+Contato: gabriel.gouveia@g.globo  
 
 <!---
 Gabriel-Croquer/Gabriel-Croquer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
