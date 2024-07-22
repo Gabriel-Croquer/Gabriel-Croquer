@@ -2,7 +2,7 @@
 - Sou repórter do g1, da TV Globo.
 - Sou repórter especializado em jornalismo de dados. 
 
-Contato: gabriel.gouveia@g.globo  
+Contato: gabrieloliveiracroquer@hotmail.com  
 
 <!---
 Gabriel-Croquer/Gabriel-Croquer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
