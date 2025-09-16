@@ -1,5 +1,4 @@
 - 👋 Oi, meu nome é @Gabriel-Croquer
-- Sou repórter do g1, da TV Globo.
 - Sou repórter especializado em jornalismo de dados. 
 
 Contato: gabrieloliveiracroquer@hotmail.com  
